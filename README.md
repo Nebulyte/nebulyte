@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I'm Niranjan Nair.
 
-I'm Niranjan Nair from India, a passionate designer and developer. Coding isn't just a hobby for me; it's a part of who I am, and I can't imagine my life without it. My journey into the world of programming began with the introduction to Scratch, and since then, I've been hooked. Currently, I'm immersed in learning and creating websites using HTML, CSS, and JS.
+Coding isn't just a hobby for me; it's a part of who I am, and I can't imagine my life without it. My journey into the world of programming began with the introduction to Scratch, and since then, I've been hooked. Currently, I'm immersed in learning and creating websites using HTML, CSS, and JS.
 
 Beyond coding, I have a deep fascination for astronomy and stay updated on the latest news in the field. My curiosity extends to exploring new technologies and pushing the boundaries of what's possible in the ever-evolving tech landscape.
 
